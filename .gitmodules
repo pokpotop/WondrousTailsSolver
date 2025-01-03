@@ -1,6 +1,8 @@
 [submodule "KamiToolKit"]
 	path = KamiToolKit
-	url = https://github.com/MidoriKami/KamiToolKit.git
+	url = https://github.com/pokpotop/KamiToolKit.git
+	branch = EzWondrousTails
 [submodule "KamiLib"]
 	path = KamiLib
-	url = https://github.com/MidoriKami/KamiLib.git
+	url = https://github.com/pokpotop/KamiLib.git
+	branch = EzWondrousTails
